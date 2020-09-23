@@ -1,0 +1,38 @@
+PUBG DATA ANALYSIS
+
+You are given two datasets. Your goal is to clean the data and answer the following questions by doing analysis on data.
+
+Datasets
+Match Data:- https://media.githubusercontent.com/media/DataScienceNishant/Datafiles/master/Pubg/Match%20Data.csv
+Weapon Stats:- https://media.githubusercontent.com/media/DataScienceNishant/Datafiles/master/Pubg/pubg-weapon-stats.csv
+BDM_0 BDM_1 ….. HDMG_0 HDMG_1 refers to damage when vest or helmet of particular level is used.
+
+Data Cleaning Requirements
+•	Weapons
+o	Clean the data wherever required.
+o	Take care of NaN values if any
+o	Check and correct the data types if required.
+o	Pivot tables should be converted to unpivoted form.
+•	Match Data
+o	Clean the data wherever required.
+o	Take care of NaN values if any
+o	Take into considerations useful columns.
+o	Check and correct the data types if required.
+o	Get the type of match(solo,duo or squad) by using a column in data itself.
+
+Analysis questions
+•	Which type of weapon is more in the game?
+•	Which type of weapon and bullet have most damage?
+•	Show average range by weapon type.
+•	Show time required for one round of firing for all guns.
+•	How many matches data are there in dataset?
+•	Most number of revives and vehicle destroyed.
+•	Check whether the assumption is right or wrong.
+o	AWM is the king?Really?
+o	Best guns are having 7.62 bullets?
+o	M416 vs Scar-L?
+o	Kar98 vs mini-14 for moving target?
+o	AKM is best for body shots?
+o	More kills insure winning the game?
+o	Number of heals and revives increase chance of winning?
+o	Headshots are key to success?
